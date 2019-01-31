@@ -12,7 +12,7 @@ using HGGM.Models.Identity;
 using HGGM.Services;
 using HGGM.Services.Authorization;
 using HGGM.Services.Authorization.Simple;
-using HGGM.Services.Discourse
+using HGGM.Services.Discourse;
 using HGGM.Services.Authorization.Tag;
 using Joonasw.AspNetCore.SecurityHeaders;
 using LiteDB;
